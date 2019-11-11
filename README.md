@@ -1,7 +1,4 @@
----
-description: Coursera Deeplearning.ai 🧠 kursuna çalışırkan aldığım notlar.
----
+# 🧠 AI-Notebooks
 
-# 🤿 Deeplearning.ai
-
+Yapay zeka çalışma notlarım
 
