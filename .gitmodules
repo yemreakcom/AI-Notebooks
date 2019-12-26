@@ -1,3 +1,9 @@
 [submodule "3 - Tensorflow"]
 	path = 3 - Tensorflow
 	url = https://github.com/yedhrab/YTensorflow
+[submodule "1 - Deep Learning AI"]
+	path = 1 - Deep Learning AI
+	url = https://github.com/yedhrab/DeepLearning.ai
+[submodule "2 - Self Driven Car Course"]
+	path = 2 - Self Driven Car Course
+	url = https://github.com/yedhrab/SelfDrivenCarCourse
